@@ -1,4 +1,4 @@
-# Outline of Math
+# Summary of Mathematics
 
 ### 图论
 ### 群论
